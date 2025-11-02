@@ -39,7 +39,7 @@
 ### 🌟 Featured Project  
 #### 🌤️ [WeatherScope – Real-Time Weather App](https://github.com/kishorrekumar/weather-app)  
 A live weather forecasting web app built with **React.js**, **Vite**, and **TailwindCSS**, powered by **OpenWeatherMap API** and **Pexels API**.  
-🔗 **Live Demo:** [https://weather-app-one-eta-94.vercel.app](https://weather-app-one-eta-94.vercel.app)
+🔗 **Live Demo:** [https://weather-app-one-eta-94.vercel.app](https://weather-app-kishorrekumar.vercel.app/)
 
 ---
 
