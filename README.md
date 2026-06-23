@@ -6,7 +6,7 @@
 ---
 
 ### 👨‍💻 About Me  
-🎓 I'm a **3rd Year Artificial Intelligence & Data Science** student at **Ramco Institute of Technology**.  
+🎓 I'm a **4rd Year Artificial Intelligence & Data Science** student at **Ramco Institute of Technology**.  
 💡 I’m passionate about building **intelligent web apps**, exploring **AI**, and mastering **full-stack development**.  
 🌱 Currently learning **Cloud Computing** and **Machine Learning**.  
 💬 Ask me about **React, Django, APIs, and Web Projects**.  
