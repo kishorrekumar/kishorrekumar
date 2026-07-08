@@ -1,72 +1,160 @@
-
-
-<h1 align="center">👋 Hi, I'm Kishorrekumar S</h1>
-<h3 align="center">🚀 AI & Web Developer | React | Django | Cloud | Data Science</h3>
-
----
-
-### 👨‍💻 About Me  
-🎓 I'm a **4rd Year Artificial Intelligence & Data Science** student at **Ramco Institute of Technology**.  
-💡 I’m passionate about building **intelligent web apps**, exploring **AI**, and mastering **full-stack development**.  
-🌱 Currently learning **Cloud Computing** and **Machine Learning**.  
-💬 Ask me about **React, Django, APIs, and Web Projects**.  
-⚡ Fun fact: I love creating apps that make data come alive!  
-
----
-
-### 🧠 Tech Stack  
-
-#### 💻 Languages  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-#### ⚙️ Frameworks & Tools  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
-
-#### 🗄️ Databases & Cloud  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
----
-
-### 🌟 Featured Project  
-#### 🌤️ [WeatherScope – Real-Time Weather App](https://github.com/kishorrekumar/weather-app)  
-A live weather forecasting web app built with **React.js**, **Vite**, and **TailwindCSS**, powered by **OpenWeatherMap API** and **Pexels API**.  
-🔗 **Live Demo:** [https://weather-app-one-eta-94.vercel.app](https://weather-app-kishorrekumar.vercel.app/)
-
----
-
-### 📊 GitHub Stats  
+```markdown
+<h1 align="center">Hi 👋, I'm Kishorrekumar S</h1>
+<h3 align="center">AI & Data Science Student | Full Stack Developer | React • Django • Cloud • Machine Learning</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kishorrekumar&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kishorrekumar&theme=tokyonight" alt="GitHub streak stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishorrekumar&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://komarev.com/ghpvc/?username=kishorrekumar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-### 🌐 Connect With Me  
+## 🚀 About Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/kishorrekumar-s" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/kishorrekumar" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:kishorrekumar@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+🎓 Final Year **Artificial Intelligence & Data Science** student at **Ramco Institute of Technology**
+
+💻 Passionate about developing scalable **Full Stack Web Applications**, **AI-powered solutions**, and **Cloud-based systems**
+
+🌱 Currently exploring
+
+- ☁️ Cloud Computing
+- 🤖 Machine Learning & Deep Learning
+- ⚡ System Design
+- 🔐 Cybersecurity Fundamentals
+
+💬 Ask me about
+
+- React.js
+- Django
+- REST APIs
+- Java
+- Python
+- MySQL
+- MongoDB
+
+🎯 Goal: Build innovative software that solves real-world problems.
+
+⚡ Fun Fact: I enjoy turning complex ideas into beautiful and functional web applications.
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css" />
+</p>
+
+### Frameworks & Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,django,nodejs,tailwind,vite" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### Cloud & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,linux,docker,postman" />
 </p>
 
 ---
 
-⭐️ *"Keep Learning, Keep Building — Every Line of Code Counts!"*  
+# 🌟 Featured Project
+
+## 🌤️ WeatherScope – Real-Time Weather Application
+
+A modern weather forecasting application built using **React**, **Vite**, and **Tailwind CSS**.
+
+### Features
+
+- 🌍 Search weather for any city
+- 📍 Current location weather
+- 🌡️ Live temperature & humidity
+- 🌅 Sunrise & Sunset timings
+- 🌬️ Wind Speed
+- 🖼️ Dynamic background images
+- 📱 Responsive Design
+
+### Tech Stack
+
+- React.js
+- Tailwind CSS
+- Vite
+- OpenWeatherMap API
+- Pexels API
+
+🔗 **Live Demo**
+
+https://weather-app-kishorrekumar.vercel.app/
+
+🔗 **GitHub Repository**
+
+https://github.com/kishorrekumar/weather-app
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kishorrekumar&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=kishorrekumar&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishorrekumar&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=kishorrekumar&theme=tokyonight&column=7&margin-w=15&margin-h=15"/>
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kishorrekumar&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/kishorrekumar-s">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/kishorrekumar">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:kishorrekumar@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Quote
+
+> **"Code with purpose. Learn without limits. Build for impact."**
+
+---
+
+<p align="center">
+⭐ If you like my work, consider starring my repositories!
+</p>
+```
