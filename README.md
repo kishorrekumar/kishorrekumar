@@ -1,4 +1,4 @@
-```markdown
+
 <h1 align="center">Hi 👋, I'm Kishorrekumar S</h1>
 <h3 align="center">AI & Data Science Student | Full Stack Developer | React • Django • Cloud • Machine Learning</h3>
 
@@ -157,4 +157,3 @@ https://github.com/kishorrekumar/weather-app
 <p align="center">
 ⭐ If you like my work, consider starring my repositories!
 </p>
-```
