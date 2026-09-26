@@ -100,16 +100,20 @@ I am a final-year **Computer Science** student at **Ramco Institute of Technolog
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="25"> **GitHub Analytics & Activity**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kishorrekumar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kishorrekumar&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kishorrekumar&show_icons=true&theme=tokyonight&hide_border=true" height="195" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kishorrekumar&theme=tokyonight&hide_border=true" height="195" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kishorrekumar&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishorrekumar&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kishorrekumar&theme=tokyonight&hide_border=true" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kishorrekumar&theme=tokyonight&row=1&column=6&margin-w=15" alt="Trophies" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kishorrekumar&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
