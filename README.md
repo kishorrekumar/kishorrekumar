@@ -94,12 +94,7 @@ I am a final-year **Computer Science** student at **Ramco Institute of Technolog
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="25"> **GitHub Analytics & Activity**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kishorrekumar&show_icons=true&theme=tokyonight&hide_border=true" height="195" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kishorrekumar&theme=tokyonight&hide_border=true" height="195" alt="GitHub Streak" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kishorrekumar&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kishorrekumar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
