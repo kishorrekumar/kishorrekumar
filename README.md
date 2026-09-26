@@ -1,106 +1,98 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kishorrekumar+S!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hi+There!+👋;I'm+Kishorrekumar+S!;Full-Stack+Architect+%26+Edge+AI+Engineer;" />
 </h1>
 
-<h3 align="center">🚀 AI & Web Developer | React | Django | Cloud | Data Science</h3>
+<h3 align="center">🚀 Transforming Industrial Challenges into Scalable Enterprise & AI Solutions</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kishorrekumar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/kishorrekumar?label=Followers&style=social" alt="GitHub followers" />
+  <a href="https://github.com/kishorrekumar">
+    <img src="https://komarev.com/ghpvc/?username=kishorrekumar&label=Profile%20Views&color=092E20&style=flat" alt="Profile views" />
+  </a>
+  <a href="https://linkedin.com/in/kishorrekumar">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
+  </a>
 </p>
-
-<br/>
-
-<div align="center">
- 
- 🔭 I'm currently working on **AI-powered Web Applications**
- 
- 🌱 I'm currently learning **Cloud Computing & Advanced ML**
- 
- 💬 Ask me about **React, Django, APIs, and Web Projects**
- 
- ⚡ Fun fact: **I love creating apps that make data come alive!**
-
-</div>
 
 ---
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> **About Me**
 
-🎓 **4rd Year** Artificial Intelligence & Data Science student at **Ramco Institute of Technology**
+I am a final-year **Computer Science** student at **Ramco Institute of Technology (RIT)**. My engineering journey started back at SBOA Madurai writing raw C/C++, and today, it has evolved into architecting mission-critical enterprise systems and hardware-in-the-loop AI platforms. I don't just build web apps; I build systems that bridge the gap between complex backend logic and the physical world.
 
-💡 Passionate about building **intelligent web apps**, exploring **AI**, and mastering **full-stack development**
-
-🏆 **Achievements:**
-- 🥇 Won multiple hackathons for innovative web solutions
-- 📝 Published research paper on AI applications in healthcare
-- 🎯 Completed 50+ projects combining AI and web technologies
+- 🔭 **Currently working on:** A 19-module multi-database Enterprise ERP for RIT.
+- 🌱 **Deep diving into:** VAPT Security Hardening, Edge AI (TensorRT), and Advanced IoT protocols.
+- 🤝 **Leadership:** Treasurer for the ASI Student Chapter & Main Coordinator for Hackfinity.
+- ⚽ **When I'm AFK:** You'll find me playing football/cricket, finding new music, or catching up on sleep.
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> **Tech Stack**
+## <img src="https://media.giphy.com/media/LnQjpWaON8nZ21sjWz/giphy.gif" width="25"> **Enterprise Masterpieces (Featured Work)**
 
-### 💻 **Languages**
+*Forget standard to-do apps. Here are the production-grade systems I’ve co-developed for real-world industrial and academic clients.*
+
+<table bordercolor="#092E20">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏛️ RAMCO Academic System (RIT ERP)</h3>
+      <p>A monolithic, VAPT-hardened Django ERP unifying 19 administrative modules. Features a complex multi-database routing topology (7 MySQL, 1 MSSQL) and integrates local open-weight LLMs for autonomous mock interviews and institutional RAG chatbots.</p>
+      <b>Tech Stack:</b> <code>Django</code> <code>MySQL</code> <code>Ollama</code> <code>LangChain</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏭 Industrial PPE Safety & IoT Platform</h3>
+      <p>An end-to-end edge AI safety platform deployed for Ramco Cements. Uses a fine-tuned YOLOv8 pipeline to detect missing helmets/vests and triggers physical factory alarms in real-time via a custom NodeMCU ESP8266 UART protocol.</p>
+      <b>Tech Stack:</b> <code>YOLOv8</code> <code>DeepSORT</code> <code>ESP8266</code> <code>Flask</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📄 Autonomous COE Examination System</h3>
+      <p>A mission-critical Django application digitizing the academic examination lifecycle for the Controller of Examinations. Processes millions of question-wise marks and dynamically generates QR-secured Hall Tickets and Grade Transcripts.</p>
+      <b>Tech Stack:</b> <code>Python</code> <code>Django</code> <code>ReportLab</code> <code>SQL</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚙️ NVR Stationary Object Detection</h3>
+      <p>A multi-threaded computer vision pipeline for Ramco Mills. Uses OpenCV MOG2 background subtraction to gate YOLOv8 inferences, reducing idle CPU load by up to 70% while detecting textile machinery blockages.</p>
+      <b>Tech Stack:</b> <code>OpenCV</code> <code>YOLOv8</code> <code>HTML5 Canvas</code> <code>C++</code>
+    </td>
+  </tr>
+</table>
+
+---
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> **My Tech Arsenal**
+
+### 💻 **Core Logic & Backend**
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-### ⚙️ **Frameworks & Libraries**
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 </p>
 
-### 🗄️ **Databases & Cloud**
+### 🧠 **AI, Vision & IoT**
+<p align="left">
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino_IoT-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
+</p>
+
+### 🗄️ **Databases & Architecture**
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-</p>
-
-### 🛠️ **Tools & Platforms**
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare_Tunnels-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 ---
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nZ21sjWz/giphy.gif" width="25"> **Featured Projects**
+## <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="25"> **Leadership & Community**
 
-### 🌤️ [WeatherScope – Real-Time Weather App](https://github.com/kishorrekumar/weather-app)
-> A live weather forecasting web app with dynamic backgrounds and real-time data
-
-**Tech Stack:** React.js, Vite, TailwindCSS, OpenWeatherMap API, Pexels API
-
-🔗 **Live Demo:** [WeatherScope](https://weather-app-kishorrekumar.vercel.app/)
-
-### 🧠 [AI Image Classifier](https://github.com/kishorrekumar/image-classifier)
-> Deep learning model for real-time image classification with 95% accuracy
-
-**Tech Stack:** TensorFlow, Python, React, Django REST API
-
-### 📊 [Smart Analytics Dashboard](https://github.com/kishorrekumar/analytics-dashboard)
-> Interactive dashboard with real-time data visualization and predictive analytics
-
-**Tech Stack:** React, D3.js, Django, PostgreSQL, Redis
+- 🏅 **Treasurer**, Analytics Society of India (ASI) Student Chapter (AI & DS Dept, RIT)
+- 🎯 **Main Team Coordinator**, *Hackfinity* (National-Level Hackathon) & *Nexgen AI* (Technical Symposium)
 
 ---
 
@@ -108,54 +100,25 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kishorrekumar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishorrekumar&layout=compact&langs_count=8&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishorrekumar&layout=compact&langs_count=6&theme=tokyonight" />
 </div>
-
+<br>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kishorrekumar&theme=tokyonight" alt="GitHub streak stats" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kishorrekumar&theme=tokyonight" alt="GitHub Activity Graph" />
-</div>
-
 ---
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nZ21sjWz/giphy.gif" width="25"> **🏆 GitHub Trophies**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kishorrekumar&theme=tokyonight&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="25"> **Latest Blog Posts**
-<!-- BLOG-POST-LIST:START -->
-- [Building AI-Powered Web Applications: A Comprehensive Guide](https://medium.com/@kishorrekumar)
-- [10 React Hooks You Should Know in 2024](https://medium.com/@kishorrekumar)
-- [Deploying Django Apps on Vercel: Step-by-Step Tutorial](https://medium.com/@kishorrekumar)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## <img src="https://media.giphy.com/media/dV82S4PUbk3FuU3PrC/giphy.gif" width="25"> **Let's Connect!**
+## <img src="https://media.giphy.com/media/dV82S4PUbk3FuU3PrC/giphy.gif" width="25"> **Let's Connect & Build!**
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishorrekumar-s)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishorrekumar)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishorrekumar06@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kishorrekumar)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishorrekumar@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kishorrekumar)
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://kishorrekumar.dev)
 
 </div>
 
----
-
-### 📊 **Weekly Development Breakdown**
+<!-- WakaTime / Activity Stats (Keep if you have actions running to update this) -->
 <!--START_SECTION:waka-->
-```text
-JavaScript   12 hrs 40 mins  ████████████░░░░░░░░░   55.3%
-Python       7 hrs 20 mins   ████████░░░░░░░░░░░░░   31.8%
-HTML/CSS     2 hrs 15 mins   ███░░░░░░░░░░░░░░░░░░    9.8%
-Django       1 hr 30 mins    ██░░░░░░░░░░░░░░░░░░░    3.1%
+<!--END_SECTION:waka-->
