@@ -13,12 +13,6 @@
   </a>
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGI3NWMyOGMyMDI0M2E4MzMwM2VjYmZiY2FkOWZkZmYwY2E4NmM3YyZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="600" />
-</div>
-
 ---
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> **About Me**
@@ -100,20 +94,12 @@ I am a final-year **Computer Science** student at **Ramco Institute of Technolog
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="25"> **GitHub Analytics & Activity**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kishorrekumar&show_icons=true&theme=tokyonight&hide_border=true" height="195" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kishorrekumar&theme=tokyonight&hide_border=true" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kishorrekumar&show_icons=true&theme=tokyonight&hide_border=true" height="195" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kishorrekumar&theme=tokyonight&hide_border=true" height="195" alt="GitHub Streak" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishorrekumar&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kishorrekumar&theme=tokyonight&row=1&column=6&margin-w=15" alt="Trophies" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kishorrekumar&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kishorrekumar&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
