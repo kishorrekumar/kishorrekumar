@@ -17,7 +17,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> **About Me**
 
-I am a final-year **Computer Science** student at **Ramco Institute of Technology (RIT)**. My engineering journey started back at SBOA Madurai writing raw C/C++, and today, it has evolved into architecting mission-critical enterprise systems and hardware-in-the-loop AI platforms. I don't just build web apps; I build systems that bridge the gap between complex backend logic and the physical world.
+I am a final-year **Artificial Intelligence and Data Science** student at **Ramco Institute of Technology (RIT)**. My engineering journey started back at SBOA Madurai writing raw C/C++, and today, it has evolved into architecting mission-critical enterprise systems and hardware-in-the-loop AI platforms. I don't just build web apps; I build systems that bridge the gap between complex backend logic and the physical world.
 
 - 🔭 **Currently working on:** A 19-module multi-database Enterprise ERP for RIT.
 - 🌱 **Deep diving into:** VAPT Security Hardening, Edge AI (TensorRT), and Advanced IoT protocols.
